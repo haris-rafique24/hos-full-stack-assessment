@@ -1,8 +1,0 @@
-body {
-  margin: 0;
-  background:
-    radial-gradient(circle at top left, #e7f0ff 0%, rgba(231, 240, 255, 0) 35%),
-    radial-gradient(circle at top right, #f2e8ff 0%, rgba(242, 232, 255, 0) 30%),
-    #f1f5f9;
-  font-family: Inter, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
